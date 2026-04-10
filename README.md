@@ -51,7 +51,7 @@
 1. Clone the repository
 
 ```bash id="7l3rqa"
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/aman36yt/portfolio.git
 ```
 
 2. Open the folder
@@ -61,7 +61,7 @@ git clone https://github.com/your-username/portfolio.git
 
 ## 🌐 Live Demo
 
-👉 https://your-portfolio-link.com
+👉 https://your-portfolio-link.com {soon....}
 
 ---
 
